@@ -3,8 +3,8 @@ pipeline {
 
     environment {
         AWS_DEFAULT_REGION = 'us-east-1'
-        S3_BUCKET = 'jenkins-static-53973cd9'
-        CLOUDFRONT_DISTRIBUTION_ID = 'E13MX7FZL604M7'
+        S3_BUCKET = 'jenkins-static-bd24df85'
+        CLOUDFRONT_DISTRIBUTION_ID = 'E20C2D2T4JQ2XW'
     }
 
     stages {
